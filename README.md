@@ -1,1 +1,1 @@
-# IoT-Live-Coding
+# AI Teaching Approach
